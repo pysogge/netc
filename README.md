@@ -1,6 +1,6 @@
 # Net C
-## Desc: Networking in C
-## Auth: Pysogge
+Desc: Networking in C
+Auth: Pysogge
 
 ## Start
 ```bash
