@@ -4,12 +4,12 @@
 
 ## Start
 ```bash
+make init
 make build
 make run
 ```
 
-## Clean
+## Clean 
 ```bash
-make build
-make run
+make clean # optional
 ```
